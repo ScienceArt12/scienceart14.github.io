@@ -1027,22 +1027,6 @@
         "order": 3
       },
       "components": []
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Science News",
-        "order": 2
-      },
-      "components": []
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Tech News",
-        "order": 1
-      },
-      "components": []
     }
   }
 }
